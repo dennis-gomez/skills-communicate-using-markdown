@@ -6,4 +6,4 @@ Use headings, lists, and checklists to organize your content.
 
 ###### This course is an introduction
 
-Inserting a header into a file
+![Image of Cat](https://octodex.github.com/images/yaktocat.png)
